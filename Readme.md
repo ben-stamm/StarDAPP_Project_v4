@@ -1,11 +1,12 @@
-#Truffle Version:
-5.1.47
-#OpenZeppelin Version:
-2.1.2 [openzeppelin-solidity]
+# StarDAPP Project
 
-#ERC721 Token Name:
-Big Baller Token
-#ERC721 Token Symbol:
-BBB
-#Rinkeby Token Contract Address:
-0xcfEeaE1BB406ddAa97ECfD9429D8CCFc53e0038E
+## Packages
+
+1. Truffle: 5.1.47
+2. openZeppelin-solidity: 2.1.2
+
+## Token Information
+
+1. ERC721 Token Name: Big Baller Token
+2. ERC721 Token Symbol: BBB
+3. Rinkeby Token Contract Address: 0xcfEeaE1BB406ddAa97ECfD9429D8CCFc53e0038E
