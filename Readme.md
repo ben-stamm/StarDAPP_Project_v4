@@ -4,6 +4,7 @@
 
 1. Truffle: 5.1.47
 2. openZeppelin-solidity: 2.1.2
+3. truffle-hdwallet-provider: 1.0.2
 
 ## Token Information
 
